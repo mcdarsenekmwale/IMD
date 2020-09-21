@@ -16,7 +16,7 @@
   ,
   _technologies and many more_
   
-  **Features**
+  ### Features
   - View a list of articles.
   - Filter articles based on their popularity + Category
   - Search through all articles
