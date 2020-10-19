@@ -4,7 +4,7 @@
 
 ## SCREENSHOTS
 <div> 
-<img alt="hello_toast" src="https://user-images.githubusercontent.com/30800758/96464927-f7484f80-125a-11eb-8c60-9ea163d1114c.png" height="500" width="500">
+<img alt="hello_toast" src="https://user-images.githubusercontent.com/30800758/96464927-f7484f80-125a-11eb-8c60-9ea163d1114c.png" >
 <img alt="implicit_intent" src="https://user-images.githubusercontent.com/30800758/96465059-1e068600-125b-11eb-856b-864852d576b9.png" height="500" width="500">
 <img alt="implicit_intent_1" src="https://user-images.githubusercontent.com/30800758/96465069-21017680-125b-11eb-9fda-d8d4e1849500.png" height="500" width="500">
 </div>
