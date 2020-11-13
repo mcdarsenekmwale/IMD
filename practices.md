@@ -39,7 +39,7 @@
  ***Description***
  - Clickable images
  
-<img alt="two_activities" src="https://user-images.githubusercontent.com/30800758/96465079-22cb3a00-125b-11eb-964d-62c7d0356158.png" height="250" width="50
+<img alt="two_activities" src="https://user-images.githubusercontent.com/30800758/96465079-22cb3a00-125b-11eb-964d-62c7d0356158.png" height="250" width="500">
 
 
 ### USER INTERACTION : ORDER
