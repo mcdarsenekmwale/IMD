@@ -63,3 +63,27 @@
  - A fullscreen article read view for a single sports article
  
 <img alt="materialize_item_view" src="https://user-images.githubusercontent.com/30800758/99090792-05934c80-260a-11eb-9fd6-aa97396038fd.png" height="250" width="500">
+
+### NOTIFICATIONS
+ ***Description***
+ - Implementing the notify me functionality
+ 
+<img alt="notifications" src="https://user-images.githubusercontent.com/30800758/101378455-11fb8400-38ee-11eb-9ee1-8d9b28123fc9.png" height="250" width="500">
+
+### API CALL
+ ***Description***
+ - It is about getting the book author's name by searching with the book name. (Who wrote it)
+ 
+<img alt="whowroteit" src="https://user-images.githubusercontent.com/30800758/101378477-19229200-38ee-11eb-8add-66b12a002dd2.png" height="250" width="500">
+
+### SHARED PREFERENCE
+ ***Description***
+ - Storing the value of the color and value of the count
+ 
+<img alt="shared_preference" src="https://user-images.githubusercontent.com/30800758/101377134-6aca1d00-38ec-11eb-96c1-32448cb49b92.png" height="250" width="500">
+
+### RECYCLER VIEW
+ ***Description***
+ - A list words that if one is removed from the list, can be recycled back
+ 
+<img alt="recycle_view" src="https://user-images.githubusercontent.com/30800758/101377097-600f8800-38ec-11eb-9236-5221872ebf62.png" height="250" width="500">
