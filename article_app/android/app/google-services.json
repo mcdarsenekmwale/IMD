@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274338407448",
+    "firebase_url": "https://macblog-3d592.firebaseio.com",
+    "project_id": "macblog-3d592",
+    "storage_bucket": "macblog-3d592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274338407448:android:1fab7a7c6526087b540f6d",
+        "android_client_info": {
+          "package_name": "com.mcdarsene.article_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274338407448-lkrmns6ta3tiv8maca422fdva4c5lkhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHVITLYMOC0AxuJ07ALDLmoynZd_HRx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274338407448-lkrmns6ta3tiv8maca422fdva4c5lkhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
