@@ -1,4 +1,4 @@
-# IMD COURSE PROJECT REPO
+# IMD 
 
 ***Getting started***
 
